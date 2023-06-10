@@ -1,4 +1,4 @@
-.PHONY: start_db stop_db
+.PHONY: start_db stop_db setup_dev
 
 
 ### DOCKER ###
